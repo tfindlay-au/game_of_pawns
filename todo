@@ -1,0 +1,7 @@
+I won't be able to do this, but:
+
+[x] Board should be owned by board module.
+[ ] I'd like to move parsing of args into get_mode() function, but rust is hard.
+[x] Write assumptions (distance between kings, parsing of args).
+[x] Move pieces into constants. And use them everywhere instead of chars. They should belong to pieces module.
+[ ] Generator is a function, it can be injected into pieces and board modules to make them deterministic.

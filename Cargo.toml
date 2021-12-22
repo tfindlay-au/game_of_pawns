@@ -1,0 +1,8 @@
+[package]
+name = "game_of_pawns"
+version = "0.1.0"
+authors = ["Timothy Findlay <tfindlay@prodevelop.com.au", "Svetlana Marina <svetixbot@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
